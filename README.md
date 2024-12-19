@@ -1,4 +1,4 @@
-## Welcome to my README!
+<h1 align="center"> Welcome to my Github/Blog page! </h1>
 <h3 align="center">
     Check out on my socials!
 </h3>
@@ -18,5 +18,3 @@
     <img src="assets/icon/X_icon.png" width="50px">
     </picture>
 </p>
- 
-![John's Github Stats!](https://github-readme-stats.vercel.app/api?username=Johnsonnn64&hide=contribs,prs&theme=catppuccin_mocha&show_icons=true)
