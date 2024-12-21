@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my Github/Blog page! </h1>
+<h1 align="center"> Welcome to my Github </h1>
 <h3 align="center">
     Check out on my socials!
 </h3>
